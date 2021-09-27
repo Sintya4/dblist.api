@@ -1,0 +1,35 @@
+{
+  "name": "dblist.api",
+  "version": "1.0.0",
+  "description": "A official dblist api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sintya4/dblist.api.git"
+  },
+    "bugs": {
+    "url": "https://github.com/Sintya4/dblist.api/issues"
+  },
+  "homepage": "https://github.com/Sintya4/dblist.api#readme",
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "dblist",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "Sintya4",
+  "license": "MIT",
+  "dependencies": {}
+}
